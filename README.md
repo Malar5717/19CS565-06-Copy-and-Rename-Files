@@ -1,5 +1,4 @@
-# UiPath File System Automation: Copy and Rename
-
+# EXP 06: COPY AND RENAME FILES
 ### AIM
 
 The objective is to copy all files from a designated source folder to a destination folder and rename each file by appending a unique timestamp (`yyyyMMddHHmmss`) to its name.
