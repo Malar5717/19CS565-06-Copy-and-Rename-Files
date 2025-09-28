@@ -24,7 +24,8 @@ The workflow uses built-in .NET functionality exposed through UiPath activities:
 
 Files are copied form the `srcFiles` folder to the `destFiles` folder attached.
 
-new files: srcFile -> srcFile_20250927233409.txt, srcFile2 -> srcFile2_20250927233409.txt
+<img width="1919" height="383" alt="image" src="https://github.com/user-attachments/assets/94835deb-8fdf-4b1c-b579-a40df55f89a8" />
+
 
 ---
 
